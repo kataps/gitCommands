@@ -1,6 +1,9 @@
-# GIT Commands basics as note for my journey :)
+# GIT Basic commands
 
-## Configuring github(name,email)
+## About
+	A note for my carrer using github as part of my journey.
+
+### Configuring github(name,email)
 
 ```git
 

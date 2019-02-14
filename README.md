@@ -34,14 +34,14 @@ $ git commit -m "message or activity" .
 ### Add new remote repository.
 ```git
 
-$ git remote add origin   https://github.com/kataps/sampleRepo.git
+$ git remote add origin https://github.com/kataps/sampleRepo.git
 
 ```
 
 ### Pushing changes in your local repository to GitHub.
 ```git
 
-$ git remote add origin https://github.com/kataps/sampleRepo.git
+$ git push origin master https://github.com/kataps/sampleRepo.git
 
 ```
 ### Cloning an Existing Repository
